@@ -18,13 +18,13 @@ kaggle競賽
 - `requirements.txt`：依賴套件列表
 
 ## 執行方式
-1. 建立虛擬環境並安裝依賴：
-python -m venv venv  
-source venv/bin/activate  
-pip install -r requirements.txt
+1. 建立虛擬環境並安裝依賴：  
+python -m venv venv    
+source venv/bin/activate   
+pip install -r requirements.txt  
 
 2. 執行訓練：
-python main_deberta.py,python main_tinyllama_lora.py
+python main_deberta.py和python main_tinyllama_lora.py
 
 
 ## 注意事項
