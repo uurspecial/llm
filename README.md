@@ -1,6 +1,5 @@
-[PTT](https://docs.google.com/presentation/d/1Xh2swC-2ybWCpR3AK-SQyaFlZVtL4hc4hOL0bh-UOVY/edit?usp=sharing)
-
 # llm_finetune_project
+[PTT](https://docs.google.com/presentation/d/1Xh2swC-2ybWCpR3AK-SQyaFlZVtL4hc4hOL0bh-UOVY/edit?usp=sharing)
 
 ## 專案說明
 本專案是用來微調 DeBERTa 和 TinyLlama 等大型語言模型，包含資料處理、訓練程式碼與模型結果。
